@@ -1,24 +1,14 @@
-A bare-bones Dart web app.
+// Capture d'écran Palier 1 //
+![alt text](image.png)
 
-Uses [`package:web`](https://pub.dev/packages/web)
-to interop with JS and the DOM.
+// Capture d'écran Palier 2 //
+![alt text](image-1.png)
 
-## Running and building
+// Capture d'écran Palier 3 //
+![alt text](image-2.png)
 
-To run the app,
-activate and use [`package:webdev`](https://dart.dev/tools/webdev):
+// Capture d'écran Palier 4 //
+![alt text](image-3.png)
 
-```
-dart pub global activate webdev
-webdev serve
-```
-
-To build a production version ready for deployment,
-use the `webdev build` command:
-
-```
-webdev build
-```
-
-To learn how to interop with web APIs and other JS libraries,
-check out https://dart.dev/interop/js-interop.
+// Capture d'écran Palier 5 //
+![alt text](image-4.png)
