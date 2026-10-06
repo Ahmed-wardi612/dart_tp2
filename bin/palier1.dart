@@ -11,3 +11,7 @@ void main() {
   print('annee : $anneeCourante');
 
 }
+
+//réponse question de compréhension:
+//final est une valeur fixée une seule fois et const valeur ne peut pas être modifiée à la compilation. 
+
